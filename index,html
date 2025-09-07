@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Pixel Design</title>
+        <title>Новости</title>
         <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
@@ -8,9 +8,9 @@
             <img src="https://learn.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
         </header>
         <nav>
-            <a href="#news">Новости</a>
-            <a href="#contest">Конкурс</a>
-            <a href="#plans">Планы развития</a>
+            <a href="index.html">Новости</a>
+            <a href="giveaway.html">Конкурс</a>
+            <a href="plans.html">Планы развития</a>
         </nav>
         <main>
             <h1>Pixel Design</h1>
