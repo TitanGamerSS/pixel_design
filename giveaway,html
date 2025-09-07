@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Конкурс</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+            <img src="https://learn.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
+        </header>
+        <nav>
+            <a href="index.html">Новости</a>
+            <a href="giveaway.html">Конкурс</a>
+            <a href="plansf.html">Планы развития</a>
+        </nav>
+        <main>
+            <h1>Pixel Design</h1>
+            <div class="posts">
+                <div class="post_news">
+                    <h2 id="news">Главный приз конкурса</h2>
+                    <p>В конкурсе будет разыгрываться новый ноутбук от компании "Asus".</p>
+                </div>
+                <div class="post_contest">
+                    <h2 id="contest">Правила конкурса</h2>
+                    <p>Запрещается получать более одного билета (один билет на одного человека), запрещено выдавать себя за победителя.</p>
+                </div>
+                <div class="post_plans">
+                    <h2 id="plans">Как принять<br/> участие</h2>
+                    <p>Что бы принять участие нужно пройти первый модуль, длинной в 2 урока, после чего, вам выдадут билет с вашем именем.</p>
+                </div>
+            </div>
+            <div class="gallery">
+                <img src ="https://learn.algoritmika.org/uploads/2020/11/news_0_1606476698.png">
+                <img src ="https://learn.algoritmika.org/uploads/2020/11/news_0_1606476698.png">
+                <img src="https://learn.algoritmika.org/uploads/2020/11/plans_0_1606479762.png"/>
+            </div>
+        </main>
+        <footer>
+            <p><b><i>Контакты</i></b></p>
+            <p>Адрес: г. Техноград, ул. Дисплейная, 15</p>
+            <p>Тел.: 8895-6341</p>
+        </footer>
+    </body>
+</html>
